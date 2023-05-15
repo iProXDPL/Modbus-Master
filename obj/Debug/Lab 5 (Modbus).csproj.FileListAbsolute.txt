@@ -1,0 +1,43 @@
+C:\Users\desig\Documents\Visual Studio 2022\Projekty\Lab 5 (Modbus)\bin\Debug\Lab 5 (Modbus).exe.config
+C:\Users\desig\Documents\Visual Studio 2022\Projekty\Lab 5 (Modbus)\bin\Debug\Lab 5 (Modbus).exe
+C:\Users\desig\Documents\Visual Studio 2022\Projekty\Lab 5 (Modbus)\bin\Debug\Lab 5 (Modbus).pdb
+C:\Users\desig\Documents\Visual Studio 2022\Projekty\Lab 5 (Modbus)\obj\Debug\Lab 5 (Modbus).csproj.AssemblyReference.cache
+C:\Users\desig\Documents\Visual Studio 2022\Projekty\Lab 5 (Modbus)\obj\Debug\Lab 5 (Modbus).csproj.SuggestedBindingRedirects.cache
+C:\Users\desig\Documents\Visual Studio 2022\Projekty\Lab 5 (Modbus)\obj\Debug\Lab_5__Modbus_.Form1.resources
+C:\Users\desig\Documents\Visual Studio 2022\Projekty\Lab 5 (Modbus)\obj\Debug\Lab_5__Modbus_.Properties.Resources.resources
+C:\Users\desig\Documents\Visual Studio 2022\Projekty\Lab 5 (Modbus)\obj\Debug\Lab 5 (Modbus).csproj.GenerateResource.cache
+C:\Users\desig\Documents\Visual Studio 2022\Projekty\Lab 5 (Modbus)\obj\Debug\Lab 5 (Modbus).csproj.CoreCompileInputs.cache
+C:\Users\desig\Documents\Visual Studio 2022\Projekty\Lab 5 (Modbus)\obj\Debug\Lab 5 (Modbus).exe
+C:\Users\desig\Documents\Visual Studio 2022\Projekty\Lab 5 (Modbus)\obj\Debug\Lab 5 (Modbus).pdb
+F:\Studia\Przemysłowe sieci i protokoły komunikacyjne automatyki - Krzysztof Wołowiec\Lab 5 (Modbus)\bin\Debug\Lab 5 (Modbus).exe.config
+F:\Studia\Przemysłowe sieci i protokoły komunikacyjne automatyki - Krzysztof Wołowiec\Lab 5 (Modbus)\bin\Debug\Lab 5 (Modbus).exe
+F:\Studia\Przemysłowe sieci i protokoły komunikacyjne automatyki - Krzysztof Wołowiec\Lab 5 (Modbus)\bin\Debug\Lab 5 (Modbus).pdb
+F:\Studia\Przemysłowe sieci i protokoły komunikacyjne automatyki - Krzysztof Wołowiec\Lab 5 (Modbus)\obj\Debug\Lab 5 (Modbus).csproj.AssemblyReference.cache
+F:\Studia\Przemysłowe sieci i protokoły komunikacyjne automatyki - Krzysztof Wołowiec\Lab 5 (Modbus)\obj\Debug\Lab 5 (Modbus).csproj.SuggestedBindingRedirects.cache
+F:\Studia\Przemysłowe sieci i protokoły komunikacyjne automatyki - Krzysztof Wołowiec\Lab 5 (Modbus)\obj\Debug\Lab_5__Modbus_.Form1.resources
+F:\Studia\Przemysłowe sieci i protokoły komunikacyjne automatyki - Krzysztof Wołowiec\Lab 5 (Modbus)\obj\Debug\Lab_5__Modbus_.Properties.Resources.resources
+F:\Studia\Przemysłowe sieci i protokoły komunikacyjne automatyki - Krzysztof Wołowiec\Lab 5 (Modbus)\obj\Debug\Lab 5 (Modbus).csproj.GenerateResource.cache
+F:\Studia\Przemysłowe sieci i protokoły komunikacyjne automatyki - Krzysztof Wołowiec\Lab 5 (Modbus)\obj\Debug\Lab 5 (Modbus).csproj.CoreCompileInputs.cache
+F:\Studia\Przemysłowe sieci i protokoły komunikacyjne automatyki - Krzysztof Wołowiec\Lab 5 (Modbus)\obj\Debug\Lab 5 (Modbus).exe
+F:\Studia\Przemysłowe sieci i protokoły komunikacyjne automatyki - Krzysztof Wołowiec\Lab 5 (Modbus)\obj\Debug\Lab 5 (Modbus).pdb
+E:\Studia\Przemysłowe sieci i protokoły komunikacyjne automatyki - Krzysztof Wołowiec\Lab 5 (Modbus)\bin\Debug\Lab 5 (Modbus).exe.config
+E:\Studia\Przemysłowe sieci i protokoły komunikacyjne automatyki - Krzysztof Wołowiec\Lab 5 (Modbus)\bin\Debug\Lab 5 (Modbus).exe
+E:\Studia\Przemysłowe sieci i protokoły komunikacyjne automatyki - Krzysztof Wołowiec\Lab 5 (Modbus)\bin\Debug\Lab 5 (Modbus).pdb
+E:\Studia\Przemysłowe sieci i protokoły komunikacyjne automatyki - Krzysztof Wołowiec\Lab 5 (Modbus)\obj\Debug\Lab 5 (Modbus).csprojAssemblyReference.cache
+E:\Studia\Przemysłowe sieci i protokoły komunikacyjne automatyki - Krzysztof Wołowiec\Lab 5 (Modbus)\obj\Debug\Lab_5__Modbus_.Form1.resources
+E:\Studia\Przemysłowe sieci i protokoły komunikacyjne automatyki - Krzysztof Wołowiec\Lab 5 (Modbus)\obj\Debug\Lab_5__Modbus_.Properties.Resources.resources
+E:\Studia\Przemysłowe sieci i protokoły komunikacyjne automatyki - Krzysztof Wołowiec\Lab 5 (Modbus)\obj\Debug\Lab 5 (Modbus).csproj.GenerateResource.cache
+E:\Studia\Przemysłowe sieci i protokoły komunikacyjne automatyki - Krzysztof Wołowiec\Lab 5 (Modbus)\obj\Debug\Lab 5 (Modbus).csproj.CoreCompileInputs.cache
+E:\Studia\Przemysłowe sieci i protokoły komunikacyjne automatyki - Krzysztof Wołowiec\Lab 5 (Modbus)\obj\Debug\Lab 5 (Modbus).exe
+E:\Studia\Przemysłowe sieci i protokoły komunikacyjne automatyki - Krzysztof Wołowiec\Lab 5 (Modbus)\obj\Debug\Lab 5 (Modbus).pdb
+F:\Studia\Przemysłowe sieci i protokoły komunikacyjne automatyki - s38445 Krzysztof Wołowiec\Lab 5 (Modbus WinForm)\bin\Debug\Lab 5 (Modbus).exe.config
+F:\Studia\Przemysłowe sieci i protokoły komunikacyjne automatyki - s38445 Krzysztof Wołowiec\Lab 5 (Modbus WinForm)\bin\Debug\Lab 5 (Modbus).exe
+F:\Studia\Przemysłowe sieci i protokoły komunikacyjne automatyki - s38445 Krzysztof Wołowiec\Lab 5 (Modbus WinForm)\bin\Debug\Lab 5 (Modbus).pdb
+F:\Studia\Przemysłowe sieci i protokoły komunikacyjne automatyki - s38445 Krzysztof Wołowiec\Lab 5 (Modbus WinForm)\obj\Debug\Lab 5 (Modbus).csproj.AssemblyReference.cache
+F:\Studia\Przemysłowe sieci i protokoły komunikacyjne automatyki - s38445 Krzysztof Wołowiec\Lab 5 (Modbus WinForm)\obj\Debug\Lab 5 (Modbus).csproj.SuggestedBindingRedirects.cache
+F:\Studia\Przemysłowe sieci i protokoły komunikacyjne automatyki - s38445 Krzysztof Wołowiec\Lab 5 (Modbus WinForm)\obj\Debug\Lab_5__Modbus_.Form1.resources
+F:\Studia\Przemysłowe sieci i protokoły komunikacyjne automatyki - s38445 Krzysztof Wołowiec\Lab 5 (Modbus WinForm)\obj\Debug\Lab_5__Modbus_.Properties.Resources.resources
+F:\Studia\Przemysłowe sieci i protokoły komunikacyjne automatyki - s38445 Krzysztof Wołowiec\Lab 5 (Modbus WinForm)\obj\Debug\Lab 5 (Modbus).csproj.GenerateResource.cache
+F:\Studia\Przemysłowe sieci i protokoły komunikacyjne automatyki - s38445 Krzysztof Wołowiec\Lab 5 (Modbus WinForm)\obj\Debug\Lab 5 (Modbus).csproj.CoreCompileInputs.cache
+F:\Studia\Przemysłowe sieci i protokoły komunikacyjne automatyki - s38445 Krzysztof Wołowiec\Lab 5 (Modbus WinForm)\obj\Debug\Lab 5 (Modbus).exe
+F:\Studia\Przemysłowe sieci i protokoły komunikacyjne automatyki - s38445 Krzysztof Wołowiec\Lab 5 (Modbus WinForm)\obj\Debug\Lab 5 (Modbus).pdb
